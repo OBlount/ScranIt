@@ -1,0 +1,10 @@
+#node_module ignore
+node_modules
+
+#project ignores
+.vscode
+dist
+vetur.config.js
+
+#env vals
+.env

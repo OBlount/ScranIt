@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+    api:
+        container_name: ExpressAPI
+        build:
+            context: ./internal/
+        ports:
+            - '8081:8081'
+    expirebot:
+        container_name: ExpireBot
+        build:
+            context: ./expireBot/

@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "watch": true,
+        "lib": ["dom", "dom.iterable", "ESNext", "ES6"],
+        "moduleResolution": "node",
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "strict": true,
+    },
+    "include": ["src/**/*.ts"],
+}
