@@ -1,6 +1,6 @@
 # **ScranIt :fork_and_knife:**
 
-<div style="text-align:center"><img src="https://github.com/OBlount/ScranIt/blob/main/client/src/assets/logo.png" /></div>
+<div align="center"><img src="https://github.com/OBlount/ScranIt/blob/main/client/src/assets/logo.png" /></div>
 
 <p align="center">
   <strong>Deciding on tonight’s moves</strong>
